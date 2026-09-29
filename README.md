@@ -1,7 +1,7 @@
 # ¡Hola! Soy Alejo 👋
 
-### 🚀 Estudiante del IES Miguel Herrero en el curso de 2º de Administracion de Sistemas Informaticos y en la Red
-
+### 🚀 Estudiante del IES Miguel Herrero
+ 2º de Administracion de Sistemas Informaticos y en la Red
 Actualmente tengo el grado medio de Sistemas Microinformaticos y Redes
 
 ---
@@ -12,15 +12,6 @@ Actualmente tengo el grado medio de Sistemas Microinformaticos y Redes
 B2 Ingles
 HTML
 CSS
-
----
-
-### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radial" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radial" alt="Lenguajes más usados" width="48%" />
-</p>
 
 ---
 
